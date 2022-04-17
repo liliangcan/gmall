@@ -1,0 +1,6 @@
+com\atwendu\gmall\service\CartService.class
+com\atwendu\gmall\service\ManageService.class
+com\atwendu\gmall\service\OrderService.class
+com\atwendu\gmall\service\UserService.class
+com\atwendu\gmall\service\PaymentService.class
+com\atwendu\gmall\service\ListService.class

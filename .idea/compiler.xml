@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="gmall-interface" />
+        <module name="gmall-user-manage" />
+        <module name="gmall-list-web" />
+        <module name="gware-manage" />
+        <module name="gmall-passport-web" />
+        <module name="gmall-cart-service" />
+        <module name="gmall-service-util" />
+        <module name="gmall-order-web" />
+        <module name="gmall-web-util" />
+        <module name="gmall-order-service" />
+        <module name="gmall-bean" />
+        <module name="gmall-list-service" />
+        <module name="gmall-manage-web" />
+        <module name="gmall-manage-service" />
+        <module name="fastdfs-client-java" />
+        <module name="gmall-payment" />
+        <module name="gmall-common-util" />
+        <module name="gmall-item-web" />
+        <module name="gmall-cart-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="fastdfs-client-java" target="1.6" />
+      <module name="gmall-bean" target="11" />
+      <module name="gmall-cart-service" target="11" />
+      <module name="gmall-cart-web" target="11" />
+      <module name="gmall-common-util" target="11" />
+      <module name="gmall-interface" target="11" />
+      <module name="gmall-item-web" target="11" />
+      <module name="gmall-list-service" target="11" />
+      <module name="gmall-list-web" target="11" />
+      <module name="gmall-manage-service" target="11" />
+      <module name="gmall-manage-web" target="11" />
+      <module name="gmall-order-service" target="11" />
+      <module name="gmall-order-web" target="11" />
+      <module name="gmall-parent" target="11" />
+      <module name="gmall-passport-web" target="11" />
+      <module name="gmall-payment" target="11" />
+      <module name="gmall-service-util" target="11" />
+      <module name="gmall-user-manage" target="11" />
+      <module name="gmall-web-util" target="11" />
+      <module name="gware-manage" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="gmall-cart-service" options="" />
+      <module name="gmall-cart-web" options="" />
+      <module name="gmall-item-web" options="" />
+      <module name="gmall-list-service" options="" />
+      <module name="gmall-list-web" options="" />
+      <module name="gmall-manage-service" options="" />
+      <module name="gmall-manage-web" options="" />
+      <module name="gmall-order-service" options="" />
+      <module name="gmall-order-web" options="" />
+      <module name="gmall-passport-web" options="" />
+      <module name="gmall-payment" options="" />
+      <module name="gmall-user-manage" options="" />
+    </option>
+  </component>
+</project>
